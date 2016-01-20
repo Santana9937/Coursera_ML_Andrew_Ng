@@ -1,4 +1,8 @@
-### Programming Assignments for Stanford Machine Learning
-### Coursera Course by Andrew Ng
+### Programming Assignment 1: Linear Regression
 
-https://www.coursera.org/learn/machine-learning/
+In this exercise, we first perform linear regression with
+one feature. We then perform linear regression with multiple
+features. We first do feature scaling and then perform 
+gradient descent. Lastly, we compare the predictions from
+gradient descent to the predictions from the Normal equations
+for consistency.
